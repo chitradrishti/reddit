@@ -1,2 +1,2 @@
 # Reddit Images
-[A list of 10k Reddit Images](reddit_urls_10k.txt)
+[A list of 10k Reddit Image URLs](reddit_urls_10k.txt)
